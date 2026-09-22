@@ -1,0 +1,14 @@
+C:\laragon\www\program.cs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\laragon\www\program.cs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\laragon\www\program.cs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\laragon\www\program.cs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\laragon\www\program.cs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\laragon\www\program.cs\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
